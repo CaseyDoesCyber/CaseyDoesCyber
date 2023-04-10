@@ -11,12 +11,12 @@
 <h2>I'm currently learning:</h2>
 
   - Python
-  
-  - [(Lab In Progress!)](https://github.com/CaseyDoesCyber/LABURL)
+  <!--
+  - [(Lab In Progress!)](https://github.com/CaseyDoesCyber/LABURL)-->
 
 <h2>📺 YouTube Videos</h2>
 
-- [Cybersecurity Skillbridge Internship (My Experience!!)](https:www.youtube.com/watch?v=kUy-F0ab3hM&t=64s)
+- [Cybersecurity Skillbridge Internship (My Experience!!)](https://www.youtube.com/watch?v=kUy-F0ab3hM&t=64s)
 
 <h2> 🤳 Connect with me:</h2>
 
