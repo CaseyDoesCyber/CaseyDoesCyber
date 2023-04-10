@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/CaseyDoesCyber/LABURL)
+  - [Nessus Scanning: Vulnerability Management - In Progress]<!--(https://github.com/CaseyDoesCyber/LABURL)-->
 
 <h2>📝 Certifications:</h2>
   
