@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Nessus Scanning: Vulnerability Management - In Progress]<!--(https://github.com/CaseyDoesCyber/LABURL)-->
+  - [Nessus Scanning: Vulnerability Management Home Lab Excercise](https://medium.com/@campbellcasey1998/nessus-essentials-scanning-and-remediating-vulnerabilities-on-a-windows-10-vm-dd5f8c962711)
 
 <h2>📝 Certifications:</h2>
   
