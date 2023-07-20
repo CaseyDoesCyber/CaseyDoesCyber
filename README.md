@@ -11,8 +11,7 @@
 <h2>I'm currently learning:</h2>
 
   - Python
-  <!--
-  - [(Lab In Progress!)](https://github.com/CaseyDoesCyber/LABURL)-->
+  - [Learn to Code With Me On SoloLearn!](https://sololearn.onelink.me/MfgO/b4saqzun)
 
 <h2>📺 YouTube Videos</h2>
 
