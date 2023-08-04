@@ -6,7 +6,7 @@
 
 <h2>📝 Certifications:</h2>
   
-- [CompTIA Security+](https://www.credly.com/go/ovKeZRCWOhphcQKkVKU47w)
+- [CompTIA Security+](https://www.credly.com/badges/f95a37c6-d6cf-4aaf-bc6d-24f9468beee7/public_url)
 - [CompTIA A+](https://www.credly.com/badges/f72a8b45-4925-48d9-bebd-d0e1ef8c86e6/public_url)
 
 <h2>I'm currently learning:</h2>
