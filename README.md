@@ -8,6 +8,7 @@
   
 - [CompTIA Security+](https://www.credly.com/badges/f95a37c6-d6cf-4aaf-bc6d-24f9468beee7/public_url)
 - [CompTIA A+](https://www.credly.com/badges/f72a8b45-4925-48d9-bebd-d0e1ef8c86e6/public_url)
+- [Linux Professional Institute: Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000585908/qvjqmms98j)
 
 <h2>I'm currently learning:</h2>
 
